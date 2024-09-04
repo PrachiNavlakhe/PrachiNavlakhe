@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrachiNavlakhe
 - 👀 I’m interested in data roles
-- 🌱 I’m currently learning data analysis
+- 💼 I’m a data analyst intern
 - 💞️ I’m looking to collaborate on data projects
 - 📫 How to reach me https://www.linkedin.com/in/prachi-navlakhe/
 
