@@ -18,7 +18,7 @@
 
 <p align="left">
   <a href="mailto:prachinavlakhe121@gmail.com">
-   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30"/>
+   <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="30" height="30"/>
   </a>
   <a href="https://www.linkedin.com/in/prachi-navlakhe/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
