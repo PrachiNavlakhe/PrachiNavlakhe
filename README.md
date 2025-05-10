@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prachi Navlakhe
 
-🎯 A passionate **Data Analytics professional** with **Over 1 year of experience**, skilled in turning data into actionable insights. I specialize in working with large datasets across various domains, delivering value through storytelling, dashboards, and automation.
+🎯 A passionate **Data Analytics professional** with **over 1 year of experience**, skilled in turning data into actionable insights. I specialize in working with large datasets across various domains, delivering value through storytelling, dashboards, and automation.
 
 🔍 I'm a quick learner and problem solver with hands-on experience using modern data tools and technologies.
 
